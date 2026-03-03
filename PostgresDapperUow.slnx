@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/MinimalApiSample/MinimalApiSample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PostgresDapperUow/PostgresDapperUow.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PostgresDapperUow.Tests/PostgresDapperUow.Tests.csproj" />
+  </Folder>
+</Solution>
